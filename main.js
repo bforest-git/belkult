@@ -1506,7 +1506,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_739 = function() {
+(lib.CachedBmp_743 = function() {
 	this.initialize(ss["main_atlas_2"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
@@ -1590,14 +1590,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_738 = function() {
+(lib.CachedBmp_742 = function() {
 	this.initialize(ss["main_atlas_1"]);
 	this.gotoAndStop(187);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_737 = function() {
+(lib.CachedBmp_741 = function() {
 	this.initialize(ss["main_atlas_2"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
@@ -4392,7 +4392,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_1 = new lib.CachedBmp_233();
 	this.instance_1.setTransform(1191.1,345.6,0.5,0.5);
 
-	this.instance_2 = new lib.CachedBmp_739();
+	this.instance_2 = new lib.CachedBmp_743();
 	this.instance_2.setTransform(1204.45,484.6,0.5,0.5);
 
 	this.instance_3 = new lib.CachedBmp_231();
@@ -4428,10 +4428,10 @@ if (reversed == null) { reversed = false; }
 	this.instance_13 = new lib.CachedBmp_221();
 	this.instance_13.setTransform(1179.15,401.7,0.5,0.5);
 
-	this.instance_14 = new lib.CachedBmp_738();
+	this.instance_14 = new lib.CachedBmp_742();
 	this.instance_14.setTransform(1360.15,448.6,0.5,0.5);
 
-	this.instance_15 = new lib.CachedBmp_737();
+	this.instance_15 = new lib.CachedBmp_741();
 	this.instance_15.setTransform(1237.8,646.3,0.5,0.5);
 
 	this.instance_16 = new lib.CachedBmp_218();
@@ -4648,10 +4648,10 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/main_atlas_1.png?1686401543954", id:"main_atlas_1"},
-		{src:"images/main_atlas_2.png?1686401543955", id:"main_atlas_2"},
-		{src:"images/main_atlas_3.png?1686401543955", id:"main_atlas_3"},
-		{src:"sounds/click_allwav.mp3?1686401544067", id:"click_allwav"}
+		{src:"images/main_atlas_1.png?1686401741845", id:"main_atlas_1"},
+		{src:"images/main_atlas_2.png?1686401741847", id:"main_atlas_2"},
+		{src:"images/main_atlas_3.png?1686401741847", id:"main_atlas_3"},
+		{src:"sounds/click_allwav.mp3?1686401741961", id:"click_allwav"}
 	],
 	preloads: []
 };
